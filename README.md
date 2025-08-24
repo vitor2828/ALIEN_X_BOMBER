@@ -6,4 +6,4 @@
 
 #### Alien_X_Bomber é um jogo inspirado em Bomberman, mas com claras referências à série de filmes Alien. Foi feito 100% em Assembly Risc-V, com ajuda do RARS e FPGRARS, para execução, e suas respectivas ferramentas de entrada e de saída de dados.
 
-![Alt](./BOMBER_X_ALIEN/sprites/tela_inicio.data)
+![Alt](./BOMBER_X_ALIEN/sprites/tela_inicio.bmp)
