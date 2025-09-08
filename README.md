@@ -26,5 +26,3 @@
 
 ##### DICA: leia o README dentro do .rar do jogo para descobrir funcionalidades extras.
 
-##### Obs: Após a apresentação do projeto (graças a Deus), surgiu um bug que afeta a movimentação dos inimigos. No entanto, resolvê-lo não está entre nossas prioridades atuais.
-
