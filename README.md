@@ -12,7 +12,7 @@
 
 #### Abra o terminal na pasta "BOMBER_X_ALIEN". Lá, execute um dos comandos a seguir...
 
-#### ./fpgrars_linux -h 480 -w 640 main.s -port 0 (LINUX)
+#### ./fpgrars_linux -h 480 -w 640 main.s --port 0 (LINUX)
 #### fpgrars_windows.exe -h 480 -w 640 main.s (WINDOWS)
 
 ##### Obs: ao utilizar uma distro linux, é provável que o áudio não saia corretamente na primeira vez. Para corrigir isso, siga o [tutorial do criador do FPGRARS](https://leoriether.github.io/FPGRARS/midi/).
